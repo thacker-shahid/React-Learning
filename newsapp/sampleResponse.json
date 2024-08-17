@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump touts economic plan in North Carolina",
+            "description": "In North Carolina, Trump spoke about the economy and took jabs at Democrats  as the race for the White House tightens.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xlq0rg4yzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4742/live/54cb6880-5a8d-11ef-b0f0-a181923a9952.jpg",
+            "publishedAt": "2024-08-15T04:52:13.2857255Z",
+            "content": "Trump's speech did not unveil any new proposals.\r\nHe vowed to \"rapidly drive prices down and make America affordable again\" in his second term.\r\nHe argued that Biden-Harris administration has \"broken… [+2945 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kolkata: Thousands march against rape and murder of doctor in India",
+            "description": "Tens of thousands of women march through Kolkata in protest against the rape and murder of a doctor.",
+            "url": "https://www.bbc.co.uk/news/articles/crmwj4z1xpko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88bc/live/f8c01e10-5a6d-11ef-8f0f-0577398c3339.jpg",
+            "publishedAt": "2024-08-15T04:22:10.5048187Z",
+            "content": "Despite scant resources, Kolkatas Reclaim the Night march appeared to have been meticulously organised. In an advisory, organisers welcomed women and people from marginalised sexual and gender identi… [+965 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lebanese hold their breath as mediators scramble to avert all-out war",
+            "description": "Locals in the capital Beirut tell the BBC their fears of another war between Israel and Hezbollah.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2ndvg18j8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/291d/live/b2453080-5a7f-11ef-bd30-23f15f42cae1.jpg",
+            "publishedAt": "2024-08-15T03:07:15.8645042Z",
+            "content": "The last time Israel and Hezbollah went to war, in 2006, it lasted six weeks and caused major damage and loss of life in Lebanon. More than 1,000 Lebanese civilians were killed, along with up to 200 … [+1099 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The Notebook actress Gena Rowlands dies at 94",
+            "description": "The Hollywood legend has been racking up acting awards since the 1950s.",
+            "url": "https://www.bbc.co.uk/news/articles/clyn3p853k5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0144/live/ec9de420-5aac-11ef-90bc-7d60a2862b62.jpg",
+            "publishedAt": "2024-08-15T03:07:15.3646292Z",
+            "content": "Both A Woman Under the Influence and Gloria were collaborations with her former husband John Cassavetes. \r\nHer Emmys were for The Betty Ford Story, Face of a Stranger, Hysterical Blindness, and The I… [+941 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Columbia University president after Gaza protests turmoil",
+            "description": "Minouche Shafik's resignation comes a year after she took the position at the Ivy League university.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8431ejnk5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13e3/live/d854e340-5a9a-11ef-82c1-df03d4c3498e.jpg",
+            "publishedAt": "2024-08-15T01:37:14.6456786Z",
+            "content": "The episode marked the first time that mass arrests had been made on Columbia's campus since Vietnam War protests more than five decades ago. \r\nThe move inflammed protests at dozens of colleges acros… [+3505 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "London stabbing victim is 11-year-old Australian tourist",
+            "description": "The girl was in the UK capital on holiday when she and her mother were attacked in Leicester Square.",
+            "url": "https://www.bbc.co.uk/news/articles/cgm71zynrm9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88d6/live/e4e5ac90-5a52-11ef-a56e-c5e93cba314a.png",
+            "publishedAt": "2024-08-14T23:37:12.4281751Z",
+            "content": "Prosecutors told a London court on Tuesday that Mr Pintaru had approached the duo on Monday at about 11:30 BST. He grabbed the child, put her in a headlock and then attacked her with a steak knife.\r\n… [+482 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What is mpox, what countries is it in and how do you catch it?",
+            "description": "Mpox, which used to be called monkeypox, is declared a global public health emergency.",
+            "url": "https://www.bbc.co.uk/news/articles/cxww2dxr3mko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b435/live/098ef3b0-5a7d-11ef-997c-711b7066309d.jpg",
+            "publishedAt": "2024-08-14T21:37:19.4429981Z",
+            "content": "Mpox disease is caused by the monkeypox virus. This is from the same group of viruses as smallpox but is much less harmful.\r\nThe virus was originally transmitted from animals to humans but now also p… [+1436 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "WHO declares Mpox global health emergency",
+            "description": "Scientists are alarmed at the high fatality rate and rapid spread of a new variant of the virus.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg35w27gzno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b413/live/d368ae10-5a6e-11ef-997c-711b7066309d.jpg",
+            "publishedAt": "2024-08-14T19:52:16.1767272Z",
+            "content": "\"A co-ordinated international response is essential to stop this outbreak and save lives,\" he said.\r\nBy declaring the Mpox outbreak as a public health emergency, it's hoped research, funding, and the… [+1446 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Steve Rosenberg: Ukraine's advance undermines Putin's image as 'Mr Security'",
+            "description": "Ukraine's incursion into Kursk raises questions about Mr Putin's ability to keep Russia safe.",
+            "url": "https://www.bbc.co.uk/news/articles/credw5q0705o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ff5b/live/3487e3f0-5a4c-11ef-a35a-ff8deca54a26.jpg",
+            "publishedAt": "2024-08-14T18:07:23.6926007Z",
+            "content": "This time on Russian TV there is no hint of criticism of President Putin; no casting doubt on his decision-making; no suggestion that it is his invasion of Ukraine that has led to this dramatic momen… [+1028 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kolkata doctor's rape and murder in hospital alarm India",
+            "description": "The rape and murder of a female doctor in India highlight the violence against healthcare workers.",
+            "url": "https://www.bbc.co.uk/news/articles/c93pqq9r5n4o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b64/live/b9fa9960-589e-11ef-aebc-6de4d31bf5cd.jpg",
+            "publishedAt": "2024-08-14T03:07:12.8444767Z",
+            "content": "Things have worsened over the years, says Saraswati Datta Bodhak, a pharmacologist at a government hospital in West Bengal's Bankura district. \"Both my daughters are young doctors and they tell me th… [+1197 chars]"
+        }
+    ]
+}
