@@ -3,10 +3,7 @@ import Navbar from "./Components/Navbar";
 import TextArea from "./Components/TextArea";
 import About from "./Components/About";
 import react, { useState } from 'react'
-// import { BrowserRouter, Routes, Route } from "react-router-dom";
 import {
-  createBrowserRouter,
-  RouterProvider,
   BrowserRouter,
   Routes,
   Route

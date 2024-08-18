@@ -8,7 +8,7 @@ export default class NewsItem extends Component {
         return (
             <>
                 <div className="card" style={{ width: '18rem' }}>
-                    <img className="card-img-top" src={urlToImage} alt="Card image cap" />
+                    <img className="card-img-top" src={urlToImage?urlToImage: "https://images.pexels.com/photos/27308308/pexels-photo-27308308/free-photo-of-lofoten-islands-of-norway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"} alt="Card image cap" />
                     <div className="card-body">
                         <h5 className="card-title">{title}...</h5>
                         <p className="card-text">{publishedAt}</p>

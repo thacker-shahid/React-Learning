@@ -1,9 +1,11 @@
 import React, { Component } from 'react'
+import { Link, NavLink, Outlet } from "react-router-dom";
 
 export default class Navbar extends Component {
 
   render() {
     return (
+      <>
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">NewsMonkey</a>
@@ -13,15 +15,34 @@ export default class Navbar extends Component {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">Home</a>
+                <Link className="nav-Link active" aria-current="page" to="/">Home</Link>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/">About</a>
-              </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/business">Business</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/entertainment">Entertainment</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/health">Health</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/science">Science</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/sports">Sports</Link>
+                </li>
+                <li className="nav-item">
+                  <Link className="nav-Link" to="/technology">Technology</Link>
+                </li>
             </ul>
           </div>
         </div>
       </nav>
+      {/* <main> */}
+        {/* < Outlet /> */}
+      {/* </main> */}
+    </>
     )
   }
 }
