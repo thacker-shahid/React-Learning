@@ -1,8 +1,8 @@
-import React, { useContext, useEffect } from 'react'
-import noteContext from '../context/notes/noteContext'
+import React from 'react'
+// import noteContext from '../context/notes/noteContext'
 
 export default function About() {
-    const a = useContext(noteContext)
+    // const a = useContext(noteContext)
     // useEffect(() => {
     //     a.update();
     // }, [])

@@ -45,13 +45,6 @@ export default class App extends Component {
             <Route path="/science" element={<News apiKey={this.apiKey} setProgress={this.setProgress} key="science" category="science" pageSize={5} country="in" />} />
             <Route path="/sports" element={<News apiKey={this.apiKey} setProgress={this.setProgress} key="sports" category="sports" pageSize={5} country="in" />} />
             <Route path="/technology" element={<News apiKey={this.apiKey} setProgress={this.setProgress} key="technology" category="technology" pageSize={5} country="in" />} />
-            {/* <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="general" category="general" pageSize={5} country="in"/></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="business" category="business" pageSize={5} country="in" /></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="entertainment" category="entertainment" pageSize={5} country="in" /></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="health" category="health" pageSize={5} country="in" /></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="science" category="science" pageSize={5} country="in" /></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="sports" category="sports" pageSize={5} country="in" /></Route>
-            <Route exact path="/"><News apiKey={this.apiKey} setProgress={this.setProgress} key="technology" category="technology" pageSize={5} country="in" /></Route> */}
           </Routes>
         </BrowserRouter>
       </>
